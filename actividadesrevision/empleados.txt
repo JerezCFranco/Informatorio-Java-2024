@@ -1,0 +1,3 @@
+Nombre: Carlos, edad: 30
+Nombre: Ana, edad: 25
+Nombre: Luis, edad: 35
