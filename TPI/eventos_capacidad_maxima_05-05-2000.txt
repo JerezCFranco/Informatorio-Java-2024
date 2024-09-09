@@ -1,0 +1,12 @@
+ID: aae25387-6a99-4ac1-b78e-44a9af3e0651
+Nombre: Brasas
+Descripción: Evento de brasas
+Fecha y Hora: 2000-05-05T18:30
+Ubicación: argentina
+Capacidad: 1 participante/s
+Chef a Cargo: Omarcito
+Participantes:
+- Participante ID: 301c5a0c-d791-4259-8c20-f777c8053d82, Nombre: Carlos Jerez
+Reseñas:
+- Participante ID: b0cde1dd-5cb4-4ae4-b1b8-29d2baa9963f, Nombre y Apellido: Carlos Jerez, Calificación: 4 estrellas, Comentario: Evento muy divertido en familia
+------------------------------

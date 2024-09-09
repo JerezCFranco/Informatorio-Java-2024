@@ -1,0 +1,9 @@
+ar\com\eventos\domain\Chef.class
+ar\com\eventos\domain\Participante.class
+ar\com\eventos\enumeration\EspecialidadEnum.class
+ar\com\eventos\enumeration\InteresesCulinariosEnum.class
+ar\com\eventos\App.class
+ar\com\eventos\domain\EventosGastronomicos.class
+ar\com\eventos\domain\App1.class
+ar\com\eventos\domain\Organizador.class
+ar\com\eventos\domain\Resena.class
